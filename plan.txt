@@ -1,0 +1,3 @@
+1.Dodanie szczegółowej dokumentacji projektu – opis działania, instrukcja instalacji i użycia.
+2.Stworzenie podfolderu „assets” lub „resources” na przyszłe materiały (obrazy, dane, pliki konfiguracyjne).
+3.Utworzenie prostego skryptu lub pliku startowego (np. start.bat / start.sh), który automatycznie otwiera projekt lub wykonuje podstawowe zadanie.
