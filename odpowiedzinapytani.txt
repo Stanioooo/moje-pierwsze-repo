@@ -1,0 +1,25 @@
+Co daje praca z GitHubem w zespole?
+Wspólne tworzenie tego samego projektu.
+Brak nadpisywania cudzych zmian.
+Każdy pracuje na swojej gałęzi.
+Możliwość kontroli i przeglądania zmian (Pull Requesty).
+Historia wszystkich wersji projektu.
+
+2. Jakie są różnice między commit, push i pull?
+Polecenie	Co robi?
+Commit	  Zapisuje zmiany lokalnie na komputerze.
+Push	    Wysyła lokalne commity na GitHuba.
+Pull	    Pobiera najnowsze zmiany z GitHuba na komputer.
+
+3. Po co tworzy się branch?
+Aby pracować nad nową funkcją, poprawką lub testem bez psucia głównej wersji projektu.
+Dzięki gałęziom każdy może pracować niezależnie.
+Pozwala to łatwo porównywać i bezpiecznie scalać zmiany.
+
+4. Co to jest Pull Request?
+Prośba o scalenie gałęzi do głównej wersji.
+Służy do:
+przeglądu kodu,
+komentowania zmian,
+akceptowania lub odrzucania nowych funkcji.
+To podstawowy sposób współpracy na GitHubie.
